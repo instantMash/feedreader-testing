@@ -29,25 +29,3 @@ This one was interesting! For a while, I was stuck on how to simulate an event i
 > Write a test that ensures when a new feed is loaded by the loadFeed function that the content actually changes.
 
 These tests required the use of Jasmine's `beforeEach` and asynchronous `done()` functions.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-.
